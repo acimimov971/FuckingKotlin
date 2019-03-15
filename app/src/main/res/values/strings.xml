@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FuckingKotlin</string>
+    <string name="toastName">TOST</string>
+    <string name="countName">COUNT</string>
+    <string name="randomName">RANDOM</string>
+    <string name="counterView">0</string>
+    <string name="TitleRand">Это случайное число между 0 и %1d</string>
+    <string name="RandView">R</string>
+</resources>
